@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TwitterBuscarFavoritos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Buscatags">Buscas com Tags</string>
+    <string name="limpar">Limpar Tags</string>
+    <string name="buscar">tag sua busca</string>
+    <string name="salvar">Salvar</string>
+    <string name="tagsuabusca">Tag Sua Buscas:</string>
+    <string name="editar">Editar</string>
+    <string name="confirmacao">tem certeza?</string>
+    <string name="urlBusca">http://twitter.com/search?q=</string>
+
+
+</resources>

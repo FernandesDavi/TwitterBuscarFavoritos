@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <Button
+        android:layout_width="@dimen/tamanhoBotaoBusca"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBusca" />
+
+    <Button
+        android:layout_width="@dimen/tamanhoBotaoEditar"
+        android:layout_height="wrap_content"
+        android:text="@string/editar"
+        android:id="@+id/btnEditar" />
+</TableRow>
